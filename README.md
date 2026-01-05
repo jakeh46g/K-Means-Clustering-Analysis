@@ -9,7 +9,7 @@ Unsupervised learning analysis to segment customers by age and income demographi
 - Visualize customer groupings for strategic planning
 
 ## Technologies Used
-- **Python 3.x**: Core programming language
+- **Python**: Core programming language
 - **scikit-learn**: K-means clustering, preprocessing, metrics
 - **pandas**: Data manipulation and analysis
 - **matplotlib/seaborn**: Data visualization
